@@ -31,7 +31,8 @@ twitter_username: jekyllrb
 github_username:  viviansophie
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
 
