@@ -33,6 +33,8 @@ header: welcome to Vivian's Website
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast"
+# theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
 
